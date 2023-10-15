@@ -1,0 +1,8 @@
+:root {
+	--white: #ffffff;
+	--black: #191918;
+}
+
+.white-text p {
+	color: var(--white);
+}
